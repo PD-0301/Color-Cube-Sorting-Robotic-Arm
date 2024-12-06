@@ -38,10 +38,6 @@ The RGB outputs from the color sensor are fed into a lightweight neural network 
 
 To reduce computational load, the trained model is implemented directly on the Propeller board, using softmax regression for real-time predictions.
 
-<p align="center">
-  <img src="NeuralNetworkDiagram.jpg" alt="Neural Network Design" width="600"/>
-</p>
-
 ## Parallel Processing with Propeller
 The Propeller board enables multitasking by dedicating individual cogs for specific operations:
 - **Cog 0**: System initialization and coordination.
