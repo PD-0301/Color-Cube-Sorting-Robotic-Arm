@@ -1,10 +1,10 @@
-# Intelligent Color-Cube Sorting System with Robotic Arm
+# Color-Cube Sorting System with Robotic Arm
 
 This project demonstrates an autonomous color-cube sorting system, featuring a 4DOF robotic arm synchronized with a conveyor belt. Aided by a color detection module and robust processing unit, the system efficiently classifies and sorts cubes based on their color in real-time.
 
 <p align="center">
   <a href="https://youtu.be/x4tu3nL01OI?si=GthjDjz5y5HyYdao" target="_blank">
-    <img src="ColorCubeSorterGIF.gif" alt="Sorting Process Visualization" width="600"/>
+    <img src="Demo.gif" alt="Sorting Process Visualization" width="600"/>
   </a>
 </p>
 
