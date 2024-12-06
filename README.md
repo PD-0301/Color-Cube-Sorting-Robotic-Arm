@@ -4,7 +4,7 @@ This project demonstrates an autonomous color-cube sorting system, featuring a 4
 
 <p align="center">
   <a href="https://youtu.be/x4tu3nL01OI?si=GthjDjz5y5HyYdao" target="_blank">
-    <img src="SortingSystem.gif" alt="Sorting Process Visualization" width="600"/>
+    <img src="ColorCubeSorterGIF.gif" alt="Sorting Process Visualization" width="600"/>
   </a>
 </p>
 
